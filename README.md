@@ -1,4 +1,7 @@
-# Dribble-HRL
+# Dribble-HRL ⚽
+
+> [!IMPORTANT]  
+> TODO
 
 This repository contains an official implementation of the paper:
 
@@ -19,7 +22,7 @@ conda activate Dribble-HRL
 
 ### Install Isaac Gym
 
-Download the Isaac Gym from the official website: [Isaac Gym](https://developer.nvidia.com/isaac-gym) and follow the installation instructions.
+Download the Isaac Gym from the [official website](https://developer.nvidia.com/isaac-gym) and follow the installation instructions.
 
 ### Install Dribble-HRL and its dependencies
 
