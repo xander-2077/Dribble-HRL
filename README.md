@@ -7,7 +7,7 @@ This repository contains an official implementation of the paper:
 
 **Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning**
 
-Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, [Qi Liu*](https://liuqi8827.github.io), [Xiang Li*](https://sites.google.com/view/homepageoflixiang/home)
+Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, Qi Liu*, Xiang Li*
 
 [[Website](https://xander-2077.github.io/Dribble_HRL/)], [Paper (Comming soon)], [[Video](https://youtu.be/7Hf6mCO0mZU)]
 
